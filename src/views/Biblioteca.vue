@@ -44,7 +44,7 @@
           📞 Contacto
         </div>
         <div class="text-body1 q-mt-sm">
-          +57 607 724 8100 ext. 205
+          +57 312 6594738
         </div>
       </q-card-section>
     </q-card>
@@ -59,7 +59,7 @@
       <q-card-section class="row items-center q-col-gutter-lg">
         <div class="col-12 col-md-3 text-center">
           <q-avatar size="120px">
-            <img src="https://images.icon-icons.com/2643/PNG/512/female_woman_avatar_people_person_white_tone_icon_159370.png">
+            <img src="https://st3.depositphotos.com/19428878/37071/v/450/depositphotos_370714622-stock-illustration-businessman-icon-vector-male-avatar.jpg">
           </q-avatar>
         </div>
 

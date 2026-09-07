@@ -59,7 +59,7 @@
       <q-card-section class="row items-center q-col-gutter-lg">
         <div class="col-12 col-md-3 text-center">
           <q-avatar size="120px">
-            <img src="https://cdn-icons-png.flaticon.com/512/1114/1114350.png">
+            <img src="https://static.vecteezy.com/system/resources/previews/011/412/253/non_2x/barista-coffeehouse-coffeeshop-avatar-head-face-plain-icon-illustration-vector.jpg">
           </q-avatar>
         </div>
 
