@@ -38,54 +38,12 @@
       Equipo desarrollador
     </div>
 
-    <div class="row q-col-gutter-lg">
-
       <div class="col-12 col-md-4">
         <q-card>
           <q-card-section class="text-center">
 
             <q-avatar size="110px">
-              <img src="https://i.pravatar.cc/300?img=11">
-            </q-avatar>
-
-            <div class="text-h6 q-mt-md">
-              Nombre del estudiante
-            </div>
-
-            <div class="text-grey">
-              Desarrollador Frontend
-            </div>
-
-          </q-card-section>
-        </q-card>
-      </div>
-
-      <div class="col-12 col-md-4">
-        <q-card>
-          <q-card-section class="text-center">
-
-            <q-avatar size="110px">
-              <img src="https://i.pravatar.cc/300?img=32">
-            </q-avatar>
-
-            <div class="text-h6 q-mt-md">
-              Nombre del estudiante
-            </div>
-
-            <div class="text-grey">
-              Diseñador UI/UX
-            </div>
-
-          </q-card-section>
-        </q-card>
-      </div>
-
-      <div class="col-12 col-md-4">
-        <q-card>
-          <q-card-section class="text-center">
-
-            <q-avatar size="110px">
-              <img src="https://i.pravatar.cc/300?img=47">
+              <img src="https://github.com/joymarricardopintoortiz/fotos/blob/main/WhatsApp%20Image%202026-09-07%20at%2012.49.18%20PM.jpeg?raw=true">
             </q-avatar>
 
             <div class="text-h6 q-mt-md">
@@ -93,14 +51,11 @@
             </div>
 
             <div class="text-grey">
-              Desarrollador
+              Desarrollador y Diseñador
             </div>
 
           </q-card-section>
         </q-card>
       </div>
-
-    </div>
-
   </q-page>
 </template>
