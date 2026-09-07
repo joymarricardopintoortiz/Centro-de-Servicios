@@ -4,6 +4,8 @@
         <q-img
         src="https://github.com/joymarricardopintoortiz/fotos/blob/main/WhatsApp%20Image%202026-09-04%20at%204.47.16%20PM.jpeg?raw=true"
         class="banner"
+        :ratio="21/9"
+        fit="cover"
         />
 
         <div class="q-mt-lg">
@@ -87,7 +89,8 @@ const horarios = [
 
 <style scoped>
 .banner {
-    height: 280px;
+    max-width: 1100px;
+    margin: 0 auto;
     border-radius: 12px;
 }
 </style>
