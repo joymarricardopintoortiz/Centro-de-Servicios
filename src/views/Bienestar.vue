@@ -79,11 +79,11 @@
 
 <script setup>
 const horarios = [
-    { dia: 'Lunes', hora: '8:00AM - 5:00PM'},
-    { dia: 'Martes', hora: '8:00AM - 5:00PM'},
-    { dia: 'Miercoles', hora: '8:00AM - 5:00PM'},
-    { dia: 'Jueves', hora: '8:00AM - 5:00PM'},
-    { dia: 'Viernes', hora: '8:00AM - 4:00PM'}
+    { dia: 'Lunes', hora: '8:00AM - 7:00PM'},
+    { dia: 'Martes', hora: '8:00AM - 7:00PM'},
+    { dia: 'Miercoles', hora: '8:00AM - 7:00PM'},
+    { dia: 'Jueves', hora: '8:00AM - 7:00PM'},
+    { dia: 'Viernes', hora: '8:00AM - 7:00PM'}
 ]
 </script>
 
