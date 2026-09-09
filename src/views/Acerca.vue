@@ -3,11 +3,11 @@
 
     <div class="text-center q-mb-xl">
       <div class="text-h3 text-primary text-weight-bold">
-        Acerca del Centro
+        Acerca del SENA
       </div>
 
       <p class="text-body1">
-        Conoce nuestro centro y el equipo que desarrolló esta aplicación.
+        Conoce nuestro SENA y el que desarrolló esta aplicación.
       </p>
     </div>
 
@@ -19,7 +19,7 @@
         </div>
 
         <p class="text-body1 q-mt-md">
-          Nuestro centro cuenta con diferentes servicios destinados
+          Nuestro SENA cuenta con diferentes servicios destinados
           a apoyar el bienestar, aprendizaje y desarrollo de toda
           la comunidad. Esta aplicación fue diseñada para facilitar
           el acceso a la información de cada servicio.

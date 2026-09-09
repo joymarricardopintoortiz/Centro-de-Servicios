@@ -2,7 +2,7 @@
     <q-page class="q-pa-lg">
         <div class="text-center q-mb-xl">
             <div class="text-h2 text-primary text-weight-bold">
-                Centro de Servicios
+                Servicios del SENA
             </div>
             <p class="text-h6 text-grey-7">
                 Conoce nuestros servicios y encuentra la información que necesitas.
