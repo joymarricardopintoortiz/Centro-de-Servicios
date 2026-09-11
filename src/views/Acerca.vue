@@ -65,19 +65,21 @@
   background: rgba(255, 255, 255, 0.92);
   border-radius: 16px;
   padding: 24px 32px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.section-title-box {
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 12px;
+  padding: 12px 20px;
+  display: inline-block;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
 }
 
 .q-page {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), url('https://github.com/joymarricardopintoortiz/fotos/blob/main/WhatsApp%20Image%202026-09-11%20at%203.36.54%20PM.jpeg?raw=true');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
-
-.hero-title-box {
-    background: rgba(255, 255, 255, 0.92);
-    border-radius: 16px;
-    padding: 24px 32px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), url('https://github.com/joymarricardopintoortiz/fotos/blob/main/WhatsApp%20Image%202026-09-11%20at%203.36.54%20PM.jpeg?raw=true');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 </style>

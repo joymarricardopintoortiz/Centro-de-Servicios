@@ -32,8 +32,6 @@ const links = [
           @click="toggleLeftDrawer"
         />
         <q-toolbar-title>Servicios del SENA</q-toolbar-title>
-        <q-btn flat label="Inicio" to="/"></q-btn>
-        <q-btn flat label="Acerca" to="/acerca"></q-btn>
       </q-toolbar>
     </q-header>
 
