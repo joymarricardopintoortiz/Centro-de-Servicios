@@ -14,10 +14,11 @@
       </div>
 
       <p class="text-body1 q-mt-md">
-        La Coordinación se encarga de orientar y gestionar diferentes
-        procesos administrativos y académicos. Este servicio brinda
-        información a los usuarios, recibe solicitudes  y facilita
-        la comunicación entre las diferentes áreas del centro.
+        Apoyamos el tema de novedades de los aprendices, retiros deserción
+        trámala dos aplazamientos que corresponden a la formación titulada del sena 
+        Tambien se apoya con el tema de la programación de los instructores
+        para la formacion, logística de los ambientes que los
+        ambientes estén en óptimas condiciones.
       </p>
     </div>
 
@@ -41,17 +42,6 @@
     <q-card class="q-mt-lg">
       <q-card-section>
         <div class="text-h5 text-primary">
-          📞 Contacto
-        </div>
-        <div class="text-body1 q-mt-sm">
-          +57 317 482 9061
-        </div>
-      </q-card-section>
-    </q-card>
-
-    <q-card class="q-mt-lg">
-      <q-card-section>
-        <div class="text-h5 text-primary">
           Encargado de atención
         </div>
       </q-card-section>
@@ -59,21 +49,21 @@
       <q-card-section class="row items-center q-col-gutter-lg">
         <div class="col-12 col-md-3 text-center">
           <q-avatar size="120px">
-            <img src="https://cdn-icons-png.flaticon.com/512/6048/6048343.png">
+            <img src="https://github.com/joymarricardopintoortiz/CENTROAGROTURISTICO/blob/main/WhatsApp%20Image%202026-09-11%20at%204.17.47%20PM%20(1).jpeg?raw=true">
           </q-avatar>
         </div>
 
         <div class="col-12 col-md-9">
           <div class="text-h6">
-            Juan Sebastian Perez
+            Luis Carlos Reina
           </div>
 
           <div class="text-subtitle1">
-            Coordinador General
+            Coordinador Académico
           </div>
 
           <div class="q-mt-sm">
-            ✉ juan.perez@sena.edu.co
+            ✉ lreinas@sena.edu.com
           </div>
         </div>
       </q-card-section>
@@ -84,11 +74,11 @@
 
 <script setup>
 const horarios = [
-    { dia: 'Lunes', hora: '5:30AM - 8:00PM'},
-    { dia: 'Martes', hora: '5:30AM - 8:00PM'},
-    { dia: 'Miercoles', hora: '5:30AM - 8:00PM'},
-    { dia: 'Jueves', hora: '5:30AM - 8:00PM'},
-    { dia: 'Viernes', hora: '5:30AM - 8:00PM'}
+    { dia: 'Lunes', hora: '7:30AM - 12:00PM'},
+    { dia: 'Martes', hora: '7:30AM - 12:00PM'},
+    { dia: 'Miercoles', hora: '7:30AM - 12:00PM'},
+    { dia: 'Jueves', hora: '7:30AM - 12:00PM'},
+    { dia: 'Viernes', hora: '7:30AM - 12:00PM'}
 ]
 </script>
 

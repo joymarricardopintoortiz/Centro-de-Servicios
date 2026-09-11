@@ -14,10 +14,10 @@
       </div>
 
       <p class="text-body1 q-mt-md">
-        La Biblioteca ofrece espacios destinados a la consulta,
-        investigación y estudio. Los usuarios pueden acceder a
-        material bibliografico y recursos educativos que apoyan
-        sus actividades academicas y de aprendizaje.
+        consultas en sala, prestamos a domicilio, prestamo interbibliotecario (pip),
+        talleres de lectura, capacitaciones, talleres de lectura, 
+        acceso a tic, asesorías en busca de información,
+        asesorías en un uso adecuado de catálogo bibliográfico.
       </p>
     </div>
 
@@ -59,21 +59,21 @@
       <q-card-section class="row items-center q-col-gutter-lg">
         <div class="col-12 col-md-3 text-center">
           <q-avatar size="120px">
-            <img src="https://st3.depositphotos.com/19428878/37071/v/450/depositphotos_370714622-stock-illustration-businessman-icon-vector-male-avatar.jpg">
+            <img src="https://github.com/joymarricardopintoortiz/CENTROAGROTURISTICO/blob/main/WhatsApp%20Image%202026-09-11%20at%204.17.48%20PM%20(1).jpeg?raw=true">
           </q-avatar>
         </div>
 
         <div class="col-12 col-md-9">
           <div class="text-h6">
-            Carlos Andres Martinez
+             Yudith Milagros Martínez Bautista
           </div>
 
           <div class="text-subtitle1">
-            Bibliotecario
+            Bibliotecaria
           </div>
 
           <div class="q-mt-sm">
-            ✉ carlos.martinez@sena.edu.co
+            ✉ ymmartinez@sena.edu.co
           </div>
         </div>
       </q-card-section>

@@ -32,7 +32,11 @@
         <q-list bordered separator>
           <q-item v-for="dia in horarios" :key="dia.dia">
             <q-item-section>{{ dia.dia }}</q-item-section>
-            <q-item-section side>{{ dia.hora }}</q-item-section>
+            <q-item-section side>
+              <div v-for="(jornada, i) in dia.hora" :key="i">
+                {{ jornada }}
+              </div>
+            </q-item-section>
           </q-item>
         </q-list>
       </q-card-section>
@@ -44,7 +48,7 @@
           📞 Contacto
         </div>
         <div class="text-body1 q-mt-sm">
-          +57 314 425 4795
+          +57 3223038451
         </div>
       </q-card-section>
     </q-card>
@@ -59,21 +63,18 @@
       <q-card-section class="row items-center q-col-gutter-lg">
         <div class="col-12 col-md-3 text-center">
           <q-avatar size="120px">
-            <img src="https://static.vecteezy.com/system/resources/previews/011/412/253/non_2x/barista-coffeehouse-coffeeshop-avatar-head-face-plain-icon-illustration-vector.jpg">
+            <img src="https://github.com/joymarricardopintoortiz/CENTROAGROTURISTICO/blob/main/WhatsApp%20Image%202026-09-11%20at%204.17.48%20PM.jpeg?raw=true">
           </q-avatar>
         </div>
 
         <div class="col-12 col-md-9">
-          <div class="text-h6">
-            Andrés Felipe Torres
-          </div>
 
           <div class="text-subtitle1">
-            Administrador de Cafetería
+            Cordimasora de cafeteria
           </div>
 
           <div class="q-mt-sm">
-            ✉ andres.torres@sena.edu.co
+            ✉ Icarreno@sena.edu.com
           </div>
         </div>
       </q-card-section>
@@ -84,11 +85,12 @@
 
 <script setup>
 const horarios = [
-    { dia: 'Lunes', hora: '6:30AM - 6:00PM'},
-    { dia: 'Martes', hora: '6:30AM - 6:00PM'},
-    { dia: 'Miercoles', hora: '6:30AM - 6:00PM'},
-    { dia: 'Jueves', hora: '6:30AM - 6:00PM'},
-    { dia: 'Viernes', hora: '6:30AM - 5:00PM'}
+    { dia: 'Lunes', hora: ['7:00AM - 12:00PM', '1:00PM - 5:30PM', '7:00PM - 9:30PM'] },
+    { dia: 'Martes', hora: ['7:00AM - 12:00PM', '1:00PM - 5:30PM', '7:00PM - 9:30PM'] },
+    { dia: 'Miercoles', hora: ['7:00AM - 12:00PM', '1:00PM - 5:30PM', '7:00PM - 9:30PM'] },
+    { dia: 'Jueves', hora: ['7:00AM - 12:00PM', '1:00PM - 5:30PM', '7:00PM - 9:30PM'] },
+    { dia: 'Viernes', hora: ['7:00AM - 12:00PM', '1:00PM - 5:30PM', '7:00PM - 9:30PM'] },
+    { dia: 'Sábados', hora: ['7:30AM - 12:00PM'] }
 ]
 </script>
 
