@@ -44,7 +44,7 @@
           📞 Contacto
         </div>
         <div class="text-body1 q-mt-sm">
-          +57 317 4829061
+          +57 317 482 9061
         </div>
       </q-card-section>
     </q-card>

@@ -44,7 +44,7 @@
           📞 Contacto
         </div>
         <div class="text-body1 q-mt-sm">
-          +57 300 0004827
+          +57 300 000 4827
         </div>
       </q-card-section>
     </q-card>

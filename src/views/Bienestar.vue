@@ -42,7 +42,7 @@
                     📞 Contacto
                 </div>
                 <div class="text-body1 q-mt-sm">
-                    +57 300 0006154
+                    +57 300 000 6154
                 </div>
             </q-card-section>
         </q-card>

@@ -44,7 +44,7 @@
           📞 Contacto
         </div>
         <div class="text-body1 q-mt-sm">
-          +57 312 6594738
+          +57 312 659 4738
         </div>
       </q-card-section>
     </q-card>

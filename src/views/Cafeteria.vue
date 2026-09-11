@@ -44,7 +44,7 @@
           📞 Contacto
         </div>
         <div class="text-body1 q-mt-sm">
-          +57 314 4254795
+          +57 314 425 4795
         </div>
       </q-card-section>
     </q-card>

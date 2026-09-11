@@ -1,12 +1,12 @@
 <template>
-  <q-page class="q-pa-md">
+  <q-page class="q-pa-lg">
 
-    <div class="text-center q-mb-xl">
+    <div class="text-center q-mb-xl hero-title-box">
       <div class="text-h3 text-primary text-weight-bold">
         Acerca del SENA
       </div>
 
-      <p class="text-body1">
+      <p class="text-h6 text-grey-9">
         Conoce nuestro SENA y el que desarrolló esta aplicación.
       </p>
     </div>
@@ -59,3 +59,11 @@
       </div>
   </q-page>
 </template>
+
+<style scoped>
+.hero-title-box {
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 16px;
+  padding: 24px 32px;
+}
+</style>
