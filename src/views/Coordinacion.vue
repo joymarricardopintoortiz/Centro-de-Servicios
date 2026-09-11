@@ -14,11 +14,14 @@
       </div>
 
       <p class="text-body1 q-mt-md">
-        Apoyamos el tema de novedades de los aprendices, retiros deserción
-        trámala dos aplazamientos que corresponden a la formación titulada del sena 
-        Tambien se apoya con el tema de la programación de los instructores
-        para la formacion, logística de los ambientes que los
-        ambientes estén en óptimas condiciones.
+        Se apoya el tema de novedades de los aprendices, como retiros,
+        deserción y trámite de aplazamientos, correspondientes a la
+        formación titulada del SENA. Asimismo, se brinda apoyo en la
+        programación de los instructores para la formación y en la
+        logística de los ambientes, garantizando que estos se encuentren
+        en óptimas condiciones para el desarrollo de las actividades
+        académicas. De esta manera, se contribuye al buen funcionamiento
+        del proceso formativo dentro del centro.
       </p>
     </div>
 

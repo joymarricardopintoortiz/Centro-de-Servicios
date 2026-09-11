@@ -14,8 +14,14 @@
       </div>
 
       <p class="text-body1 q-mt-md">
-        Aqui se ofrece todos los servicios de promoción y prevención de
-        enfermedades, atención básica en primeros auxilios.
+        Aquí se ofrecen todos los servicios de promoción y prevención de
+        enfermedades, así como atención básica en primeros auxilios para
+        la comunidad educativa. El servicio está disponible para brindar
+        orientación en salud, atención oportuna ante emergencias menores
+        y seguimiento a necesidades básicas de bienestar físico. Nuestro
+        objetivo es acompañar a los aprendices y funcionarios durante su
+        permanencia en las instalaciones, garantizando un espacio seguro
+        y de apoyo ante cualquier eventualidad de salud.
       </p>
     </div>
 

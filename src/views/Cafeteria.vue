@@ -14,10 +14,12 @@
       </div>
 
       <p class="text-body1 q-mt-md">
-        La Cafeteria ofrece alimentos y bebidas para los integrantes
-        de la comunidad. Cuenta con un espacio comodo para descansar,
-        compartir y disfrutar de diferentes opciones durante las
-        jornadas academicas y laborales.
+        La Cafetería ofrece alimentos y bebidas para los integrantes de la
+        comunidad. Cuenta con un espacio cómodo para descansar, compartir
+        y disfrutar de diferentes opciones durante las jornadas académicas
+        y laborales. Además, busca promover hábitos de alimentación
+        saludable y momentos de esparcimiento que contribuyan al bienestar
+        de aprendices y funcionarios a lo largo de su jornada diaria.
       </p>
     </div>
 

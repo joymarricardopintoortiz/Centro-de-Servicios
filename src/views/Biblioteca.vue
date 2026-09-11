@@ -14,10 +14,14 @@
       </div>
 
       <p class="text-body1 q-mt-md">
-        consultas en sala, prestamos a domicilio, prestamo interbibliotecario (pip),
-        talleres de lectura, capacitaciones, talleres de lectura, 
-        acceso a tic, asesorías en busca de información,
-        asesorías en un uso adecuado de catálogo bibliográfico.
+        La Biblioteca ofrece consultas en sala y préstamos a domicilio, así
+        como préstamo interbibliotecario (PIB) para ampliar el acceso a
+        material bibliográfico. Además, brinda talleres de lectura,
+        capacitaciones y acceso a TIC para el fortalecimiento de
+        competencias digitales. El equipo también ofrece asesorías en la
+        búsqueda de información y en el uso adecuado del catálogo
+        bibliográfico, acompañando a los aprendices en su proceso de
+        formación e investigación.
       </p>
     </div>
 
@@ -44,7 +48,7 @@
           📞 Contacto
         </div>
         <div class="text-body1 q-mt-sm">
-          +57 312 659 4738
+          +57 3125848032
         </div>
       </q-card-section>
     </q-card>
